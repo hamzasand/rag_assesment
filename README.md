@@ -66,8 +66,8 @@ rag_assessment/
 ### 2️ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/document-qa-api.git
-cd document-qa-api
+git clone https://github.com/hamzasand/rag_assesment.git
+cd rag_assesment.git
 ```
 
 ---
